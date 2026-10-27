@@ -40,4 +40,9 @@ Each repo has its own README explaining the architecture and the decisions behin
 
 ## Working with me
 
-I take on freelance projects end to end or as a hands-on contributor on an existing codebase. If you want to talk about a product, an automation or an AI integration, open an issue on any of the repos above or reach out through the website linked on my profile.
+I take on freelance projects end to end or as a hands-on contributor on an existing codebase.
+
+- 📧 **Email:** [YoussefKacem@proton.me](mailto:YoussefKacem@proton.me)
+- 🎧 **Try my voice agents live:** [masnasoft.com/en/demo.html](https://masnasoft.com/en/demo.html)
+
+If you want to talk about a product, an automation or an AI integration, write to me.
