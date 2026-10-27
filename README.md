@@ -43,6 +43,6 @@ Each repo has its own README explaining the architecture and the decisions behin
 I take on freelance projects end to end or as a hands-on contributor on an existing codebase.
 
 - 📧 **Email:** [YoussefKacem@proton.me](mailto:YoussefKacem@proton.me)
-- 🎧 **Try my voice agents live:** [masnasoft.com/en/demo.html](https://masnasoft.com/en/demo.html)
+- 🎧 **Try my voice agents live:** [masnasoft.com/en/demo](https://masnasoft.com/en/demo)
 
 If you want to talk about a product, an automation or an AI integration, write to me.
