@@ -23,6 +23,8 @@ I work mostly in **JavaScript / TypeScript** and **Python**, and I like the part
 | [**streamgate**](https://github.com/DexterYKC/streamgate) | Telegram bot platform for selling subscription access to video content | Crypto payments with HMAC-verified webhooks, signed streaming links, TOTP admin auth, encrypted IDs |
 | [**voice-receptionist-webhook**](https://github.com/DexterYKC/voice-receptionist-webhook) | AI voice receptionist backend: signed Retell webhook to instant Telegram alerts, plus a prompt library | Webhook security, defensive parsing, tested serverless function, voice-agent prompt design |
 
+**Data science certification projects** (Python and Streamlit, machine learning, computer vision, speech, NLP): [Loan approval prediction](https://github.com/DexterYKC/Loan-Approval-Prediction) · [Face detection](https://github.com/DexterYKC/Face-detection-app-Checkpoint) · [Nutrition chatbot](https://github.com/DexterYKC/Chatbot-Checkpoint---Nutrition) · [Speech recognition](https://github.com/DexterYKC/Speech-Recognition-Checkpoint) · [Voice nutrition FAQ](https://github.com/DexterYKC/Voice-recon-Checkpoint) · [Financial inclusion in Africa](https://github.com/DexterYKC/streamlit-financial-prediction)
+
 Each repo has its own README explaining the architecture and the decisions behind it. Client and personal data, credentials and branding were removed from these demo exports, and the READMEs say what is excluded and why.
 
 ## Stack
@@ -31,6 +33,7 @@ Each repo has its own README explaining the architecture and the decisions behin
 **Front-end:** React, Next.js, Tailwind CSS, shadcn/ui
 **Back-end:** Node.js, Express, Fastify, REST APIs, webhooks
 **Data:** PostgreSQL / Supabase (RLS), SQLite / libSQL
+**Data science:** Python, Streamlit, machine learning, computer vision, speech-to-text (certified)
 **AI & automation:** Claude API and MCP, Groq, n8n, Retell (voice)
 **Integrations:** Telegram, NOWPayments, Lemon Squeezy, Resend, Zoho, GitHub and Netlify APIs
 **Deployment:** Vercel, Netlify, Render, GitHub Actions
